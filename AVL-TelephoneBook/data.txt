@@ -1,0 +1,36 @@
+Item:
+NAME:	11
+	PHONE:		11111111111
+	WORKPLACE:	111
+	ADDRESS:	111
+
+Item:
+NAME:	PYL
+	PHONE:		11451419198
+	WORKPLACE:	23
+	ADDRESS:	14
+
+Item:
+NAME:	admire-vega
+	PHONE:		19119119191
+	WORKPLACE:	toresen-gakuen
+	ADDRESS:	ritto
+
+Item:
+NAME:	curren-chan
+	PHONE:		55555555555
+	WORKPLACE:	toresen-gakuen
+	ADDRESS:	mihono
+
+Item:
+NAME:	cxy
+	PHONE:		19177956739
+	WORKPLACE:	114
+	ADDRESS:	514
+
+Item:
+NAME:	meisyo-dotou
+	PHONE:		16161161161
+	WORKPLACE:	toresen-gakuen
+	ADDRESS:	ritto
+
